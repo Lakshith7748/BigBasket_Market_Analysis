@@ -22,7 +22,7 @@
 
 ## Problem Statement
 
-> *What are the key drivers of product pricing, discount patterns, and customer ratings across categories and brands on BigBasket, and how can these insights help an online grocery retailer optimize pricing strategy, improve product assortment, and boost customer satisfaction?*
+> *How can BigBasket attract more customers ? What are the key drivers of product pricing, discount patterns, and customer ratings across categories and brands on BigBasket, and how can these insights help an online grocery retailer optimize pricing strategy, improve product assortment, and boost customer satisfaction?*
 
 ---
 
